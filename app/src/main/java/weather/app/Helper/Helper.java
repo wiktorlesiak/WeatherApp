@@ -7,10 +7,6 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/**
- * Created by reale on 05/10/2016.
- */
-
 public class Helper {
     static String stream = null;
 

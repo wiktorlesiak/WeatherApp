@@ -6,10 +6,6 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by reale on 05/10/2016.
- */
-
 public class Common {
     public static String API_KEY = "b70cda1431f34c18172b4885b3b658a2";
     public static String API_LINK = "http://api.openweathermap.org/data/2.5/weather";
